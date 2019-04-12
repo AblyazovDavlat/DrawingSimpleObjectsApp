@@ -7,11 +7,9 @@ using System.Threading.Tasks;
 
 namespace DrawingSimpleObjectsApp
 {
-    class Circle : CustomPoint
+    public class Circle : Point
     {
         private float radius;
-        private Point center;
-
 
         public float Radius
         {
@@ -25,28 +23,16 @@ namespace DrawingSimpleObjectsApp
             }
         }
 
-        public Point Çenter
+        public Circle(float centerX, float centerY, int radius)
         {
-            get
-            {
-                return center;
-            }
-            set
-            {
-                center = value;
-            }
-        }
-
-
-        public Circle(Point center, int radius)
-        {
+            this.X = centerX;
+            this.Y = centerY;
             this.radius = radius;
-            this.center = center;
         }
 
         public override void Draw(Graphics graphics, Pen pen)
         {
-            graphics.DrawEllipse(pen, center.X - radius, center.Y - radius,
+            graphics.DrawEllipse(pen, X - radius, Y - radius,
                       radius + radius, radius + radius);
         }
     }

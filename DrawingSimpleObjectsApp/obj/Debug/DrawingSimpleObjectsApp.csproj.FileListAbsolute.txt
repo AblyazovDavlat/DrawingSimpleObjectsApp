@@ -8,3 +8,13 @@ C:\projects\DrawingSimpleObjectsApp\DrawingSimpleObjectsApp\obj\Debug\DrawingSim
 C:\projects\DrawingSimpleObjectsApp\DrawingSimpleObjectsApp\obj\Debug\DrawingSimpleObjectsApp.csproj.CoreCompileInputs.cache
 C:\projects\DrawingSimpleObjectsApp\DrawingSimpleObjectsApp\obj\Debug\DrawingSimpleObjectsApp.exe
 C:\projects\DrawingSimpleObjectsApp\DrawingSimpleObjectsApp\obj\Debug\DrawingSimpleObjectsApp.pdb
+D:\workspace\DrawingSimpleObjectsApp\DrawingSimpleObjectsApp\obj\Debug\DrawingSimpleObjectsApp.csprojAssemblyReference.cache
+D:\workspace\DrawingSimpleObjectsApp\DrawingSimpleObjectsApp\obj\Debug\DrawingSimpleObjectsApp.Form1.resources
+D:\workspace\DrawingSimpleObjectsApp\DrawingSimpleObjectsApp\obj\Debug\DrawingSimpleObjectsApp.Properties.Resources.resources
+D:\workspace\DrawingSimpleObjectsApp\DrawingSimpleObjectsApp\obj\Debug\DrawingSimpleObjectsApp.csproj.GenerateResource.cache
+D:\workspace\DrawingSimpleObjectsApp\DrawingSimpleObjectsApp\obj\Debug\DrawingSimpleObjectsApp.csproj.CoreCompileInputs.cache
+D:\workspace\DrawingSimpleObjectsApp\DrawingSimpleObjectsApp\obj\Debug\DrawingSimpleObjectsApp.exe
+D:\workspace\DrawingSimpleObjectsApp\DrawingSimpleObjectsApp\obj\Debug\DrawingSimpleObjectsApp.pdb
+D:\workspace\DrawingSimpleObjectsApp\DrawingSimpleObjectsApp\bin\Debug\DrawingSimpleObjectsApp.exe.config
+D:\workspace\DrawingSimpleObjectsApp\DrawingSimpleObjectsApp\bin\Debug\DrawingSimpleObjectsApp.exe
+D:\workspace\DrawingSimpleObjectsApp\DrawingSimpleObjectsApp\bin\Debug\DrawingSimpleObjectsApp.pdb
